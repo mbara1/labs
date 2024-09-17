@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5404328276",
+    "project_id": "mb-labs-notes-496c7",
+    "storage_bucket": "mb-labs-notes-496c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5404328276:android:7f29e7ea144ac35783c8c1",
+        "android_client_info": {
+          "package_name": "com.example.labs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfHyYm8qibaPZEs90-H9Eo_SCpXTBxP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
